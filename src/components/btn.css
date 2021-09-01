@@ -2,6 +2,7 @@ p {
   color: silver;
   font-size: 5rem;
   text-decoration: underline;
+  margin: 0;
 }
 .btn {
   background-color: #987259;
